@@ -1,0 +1,1 @@
+visit <https://no-support.github.io/shooting-game>
